@@ -4,7 +4,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Operasi Citra Monokrom", layout="centered")
-st.title("Operasi Dasar Citra Monokrom (Soal 6.1–6.5)")
+st.title("Operasi Dasar Citra Monokrom")
 
 st.write("Aplikasi ini menghitung dan menampilkan hasil operasi dasar pada citra monokrom.")
 
