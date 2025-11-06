@@ -114,4 +114,4 @@ with col7:
     st.write("Pembagian A/B:")
     st.write(diff_div)
 
-st.success("✅ Semua operasi selesai dihitung dan divisualisasikan.")
+st.success("Semua operasi selesai dihitung dan divisualisasikan.")
