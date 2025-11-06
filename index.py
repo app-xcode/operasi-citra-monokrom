@@ -3,6 +3,14 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 
+st.markdown("""
+    <style>
+    img {
+        border: 1px solid #dbdbdb;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
 st.set_page_config(page_title="Operasi Citra Monokrom", layout="centered")
 st.title("Operasi Dasar Citra Monokrom")
 
