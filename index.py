@@ -4,9 +4,9 @@ import cv2
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Operasi Citra Monokrom", layout="centered")
-st.title("🔍 Operasi Dasar Citra Monokrom (Jawaban Soal 6.1–6.5)")
+st.title("Operasi Dasar Citra Monokrom (Soal 6.1–6.5)")
 
-st.write("Aplikasi ini menghitung dan menampilkan hasil operasi dasar pada citra monokrom sesuai soal yang kamu berikan.")
+st.write("Aplikasi ini menghitung dan menampilkan hasil operasi dasar pada citra monokrom.")
 
 # -----------------------------------
 # Bagian 1 – Efek operasi skalar
